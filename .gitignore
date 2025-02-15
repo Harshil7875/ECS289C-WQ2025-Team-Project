@@ -1,0 +1,4 @@
+.DS_Store
+Data/metadata
+Data/processed
+scripts/Export.json
