@@ -1,4 +1,7 @@
 .DS_Store
 Data/metadata
 Data/processed
+Data/dump
 scripts/Export.json
+Documentation/*.md
+*.log

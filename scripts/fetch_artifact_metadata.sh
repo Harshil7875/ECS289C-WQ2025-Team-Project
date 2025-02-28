@@ -18,7 +18,7 @@ if [ ! -f Export.json ]; then
 fi
 
 # Create an output directory for metadata files
-output_dir="Data/metadata"
+output_dir="/Users/harshil/Developer/GitHub_Repos/FailFix/Data/metadata"
 mkdir -p "$output_dir"
 
 # Use jq to extract the image tags from Export.json.
